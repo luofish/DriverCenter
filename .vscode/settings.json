@@ -3,8 +3,8 @@
     "files.exclude": {
 		"**/.git": true,
 		"**/.DS_Store": true,
-        "**/*.js": { "when": "$(basename).t6s"},
-        "**/*.map": false
+        "**/*.js": { "when": "$(basename).ts"},
+        "**/*.map": true
 	}
 }
 
