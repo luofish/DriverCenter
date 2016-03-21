@@ -10,4 +10,6 @@
 - 使用Code打开项目即可
 
 
-## gitHub 
+## git
+- git
+- github
